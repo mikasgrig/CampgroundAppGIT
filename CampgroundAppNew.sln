@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI", "RestAPI\RestAPI.csproj", "{6AD66106-BF6F-4B0A-8BDA-D4A92B4C7187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{452435F1-596A-434E-A4F8-6D98F0D8B2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistences", "Persistences\Persistences.csproj", "{F39BA381-BDF6-4264-9F5A-33FB073B31D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD66106-BF6F-4B0A-8BDA-D4A92B4C7187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD66106-BF6F-4B0A-8BDA-D4A92B4C7187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD66106-BF6F-4B0A-8BDA-D4A92B4C7187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD66106-BF6F-4B0A-8BDA-D4A92B4C7187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452435F1-596A-434E-A4F8-6D98F0D8B2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452435F1-596A-434E-A4F8-6D98F0D8B2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452435F1-596A-434E-A4F8-6D98F0D8B2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452435F1-596A-434E-A4F8-6D98F0D8B2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39BA381-BDF6-4264-9F5A-33FB073B31D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39BA381-BDF6-4264-9F5A-33FB073B31D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39BA381-BDF6-4264-9F5A-33FB073B31D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39BA381-BDF6-4264-9F5A-33FB073B31D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
